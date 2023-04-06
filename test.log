@@ -1,0 +1,10 @@
+2023-04-06T15:30:51.507822Z  INFO orderbook: running order book with validated arguments:
+  ethrpc_max_batch_size: 100
+  ethrpc_max_concurrent_requests: 10
+  block_stream_poll_interval_seconds: 5s
+  block_stream_enable_eth_call_block_fetching: GetBlock
+2023-05-06T15:30:51.507822Z  INFO orderbook: running order book with validated arguments:
+  ethrpc_max_batch_size: 100
+  ethrpc_max_concurrent_requests: 10
+  block_stream_poll_interval_seconds: 5s
+  block_stream_enable_eth_call_block_fetching: GetBlock
