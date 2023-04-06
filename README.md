@@ -1,4 +1,5 @@
-In one shell, run:  docker-compose up1
+In one shell, run:  `docker-compose up`
+
 In another shell run 
 ```
 curl "localhost:9200/_search?pretty" \
